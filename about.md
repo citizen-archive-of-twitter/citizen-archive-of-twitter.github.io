@@ -3,16 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+This project began as a way to collect information about the ways Twitter is currently being preserved and archived. Beginning with the Library of Congress' attempt to archive the entirety of Twitter, and its eventual admission that this was too much of an undertaking for even the Library to accomplish, I was curious about other organizations, institutions, artists, internet users, etc that are attempting to perform this same process. Discussions of how to best preserve Twitter mainly focus on archiving political tweets, the ethical and moral implications of preserving and publishing information without Twitter users' consent, and the technical skills, money, and other resources needed to complete such a task. Using these lines of thinking as a backdrop, I am approaching this project by first viewing Twitter as an informal mode of information sharing where conversations emerge in ways that are impossible to imagine offline. This influences the way it can be preserved, as preserving a few tweets does not accurately represent Twitter as a platform. The experience of being on Twitter is difficult to capture, and there is little precedent for this kind of digital preservation work.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This catalog includes many different resources, such as Twitter accounts, academic and informal writing about Twitter preservation, and selected Twitter preservation projects, in order to reveal the power of citizen-archiving in digital preservation work. I hope this website will serve as a resource to investigate digital preservation trends, and is constantly growing. Ultimately, I found that because of the gaps in current digital preservation strategies and the complexities of Twitter as a platform, the most interesting and effective preservation projects for Twitter are happening on an individual level, rather than through large organizations like the Library of Congress. Encouraging Twitter users themselves to collaborate and investigate how Twitter can be preserved highlights not only the important conversations happening online, but also how Twitter as a platform has become a space where these conversations can emerge and develop.
 
 
-[jekyll-organization]: https://github.com/jekyll
+You can also follow me on Twitter at [my personal twitter]: https://twitter.com/sammysosafan
