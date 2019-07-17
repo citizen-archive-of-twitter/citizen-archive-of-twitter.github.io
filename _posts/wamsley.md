@@ -2,7 +2,6 @@
 layout: post
 title: “Library of Congress Will No Longer Archive Every Tweet”
 ---
-# Laurel Wamsley
 
 https://www.npr.org/sections/thetwo-way/2017/12/26/573609499/library-of-congress-will-no-longer-archive-every-tweet
 Wamsley, Laurel. “Library Of Congress Will No Longer Archive Every Tweet.” NPR, National Public Radio, 26 Dec. 2017
